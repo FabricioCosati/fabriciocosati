@@ -9,4 +9,4 @@ I am a Software Developer from Brazil!
 ⚡ I like to look for new challenges where I can develop solutions to improve my knowledge and my skills in the development area
 
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrício-cosati-973a69180/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrício-cosati-973a69180/)]

@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I am a Software Developer from Brazil!
-
-👋 Hello there! I am a Full Stack Software Developer with a great interest in technology, mainly in the development area, where I focus on creating simple solutions to complex problems.
+🙋‍♂️ I am a Full Stack Software Developer with a great interest in technology, mainly in the development area, where I focus on creating simple solutions to complex problems.
 
 👨🏻‍💻 At the moment, I am part of Celcoin's integration team, working in the cel_cash BU, where its focus is managing single and recurring charges mainly for business customers. On this team, I worked on APIs focusing on payment and receipt on PIX, connections with the Rede acquirer for processing credit card charges, acquiring and integration with a FMI to record receivables.
 
